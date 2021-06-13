@@ -4,7 +4,9 @@
 # 目录整理
 
 front
-  xmlExport.js 导出XMl
-  excelExport.js 导出Excel
+
+  exportXmlDemo.js 前端导出XMl的demo
+  
+  excelExport.js 前端导出Excel
 
 server
